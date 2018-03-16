@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Proj01</string>
+    <string name="buttonPkLabel">Visit PK website</string>
+    <string name="buttonDialLabel">Call 111 222 333</string>
+    <string name="buttonContactLabel">Display Contacts List</string>
+    <string name="buttonContactInfoLabel">Display First Contact Info</string>
 </resources>
