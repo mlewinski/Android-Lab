@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Proj02</string>
+    <string name="labelNaprezenieText">Naprężenie i ugięcie płyty kołowej</string>
+    <string name="imageContentDescription">Obraz przedstawia płytę kołową</string>
+    <string name="emptyString">- nieokreślony -</string>
+    <string name="buttonCalculate">Wpisz dane i oblicz</string>
+    <string name="textF" >F [N]</string>
+    <string name="textR">R [mm]</string>
+    <string name="textH">H [mm]</string>
+    <string name="textViewInsert">Wprowadź wartości parametrów</string>
+    <string name="buttonInsertCancelLabel">Anuluj</string>
+    <string name="buttonInsertOkLabel">Zatwierdź</string>
+    <string name="incorrectData">Podano nieprawidłowy ciąg znaków</string>
 </resources>
