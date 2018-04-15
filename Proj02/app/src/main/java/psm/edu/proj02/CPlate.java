@@ -1,15 +1,15 @@
 package psm.edu.proj02;
 
 /**
- * Created by lewin on 18.03.2018.
+ * Created by lewin on 20.03.2018.
  */
 
 public class CPlate {
     protected double F = 0;
     protected double R = 0;
     protected double H = 0;
-    protected final double Ni=0.3;
-    protected final double E=2.1E5;
+    protected final double Ni = 0.3;
+    protected final double E = 2.1E5;
 
     public CPlate(double f, double r, double h) {
         F = f;
