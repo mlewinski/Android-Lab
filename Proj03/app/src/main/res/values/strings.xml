@@ -1,10 +1,12 @@
 <resources>
     <string name="app_name">Proj03</string>
     <string name="title">Odczyt pozycji GPS</string>
-    <string name="latLabel">Długość geograficzna</string>
-    <string name="lonLabel">Szerokość geograficzna</string>
-    <string name="elevationLabel">Wysokość</string>
+    <string name="latLabel">Lat</string>
+    <string name="lonLabel">Lon</string>
+    <string name="elevationLabel">Alt</string>
     <string name="latValue">------- E</string>
     <string name="lonValue">------- N</string>
     <string name="elevationValue">------- m</string>
+    <string name="noPermission">Brak uprawnień</string>
+    <string name="compassName">Kompas cyfrowy</string>
 </resources>
