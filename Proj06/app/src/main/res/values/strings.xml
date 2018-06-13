@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Proj06</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="textView1text">Długość geograficzna</string>
+    <string name="textView2text">Szerokość geograficzna</string>
+    <string name="button1text">Idź do podanych współrzędnych</string>
+    <string name="button2text">Pokaż kampusy PK</string>
+    <string name="radio1text">MAPA</string>
+    <string name="radio2text">SATELITA</string>
+</resources>
